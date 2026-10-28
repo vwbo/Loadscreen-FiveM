@@ -1,0 +1,75 @@
+{
+    "store": [
+        {
+            "image": "./assets/images/vip.png",
+            "price": 99.90,
+            "discount": 199.90
+        },
+        {
+            "image": "./assets/images/vip2.png",
+            "price": 99.90,
+            "discount": 199.90
+        },
+        {
+            "image": "./assets/images/vip3.png",
+            "price": 225.00,
+            "discount": 449.99
+        }
+    ],
+    "store_url": "https://COLOQUE_AQUI_A_LOJA_DA_LUNEXA",
+    "socials": [
+        {
+            "image": "./assets/images/youtube.svg",
+            "url": "https://youtube.com/COLOQUE_AQUI"
+        },
+        {
+            "image": "./assets/images/instagram.svg",
+            "url": "https://www.instagram.com/COLOQUE_AQUI"
+        },
+        {
+            "image": "./assets/images/tiktok.svg",
+            "url": "https://www.tiktok.com/@COLOQUE_AQUI"
+        },
+        {
+            "image": "./assets/images/discord.svg",
+            "url": "https://discord.gg/COLOQUE_AQUI"
+        }
+    ],
+    "playlist": [
+        {
+            "song": "Posso Até Não Te Dar Flores",
+            "artist": "DJ JAPA NK, MC JACARÉ, MC MENO K, MC RYAN SP & DJ DAVI DOGDOG",
+            "image": "./assets/images/banner_cd.png",
+            "mp3": "./assets/sounds/mc_ryan.mp3",
+            "volume": 0.05
+        },
+        {
+            "song": "É Ruim Ver os Outros Vivendo",
+            "artist": "MC JACARÉ, MC IG, MC Tuto",
+            "image": "./assets/images/banner_cd2.png",
+            "mp3": "./assets/sounds/e_ruim_ver_os_outros_vivendo.mp3",
+            "volume": 0.05
+        },
+        {
+            "song": "Puxa o Lança",
+            "artist": "MC Jvila, KayBlack, Veigh, Vulgo FK",
+            "image": "./assets/images/banner_cd3.png",
+            "mp3": "./assets/sounds/puxa_o_lanca.mp3",
+            "volume": 0.05
+        }
+    ],
+    "keyboard": {
+        "f2": "Menu com mais de 6000 animações",
+        "f6": "Cancelar animações",
+        "F9": "Para abrir menu de atalhos",
+        "F5": "Menu de configurações de hud",
+        "K": "Abrir/Fechar celular",
+        "E": "Interagir",
+        "T": "Chat",
+        "F": "Entrar em veículos",
+        "G": "Veículo | Colocar Cinto",
+        "Z": "Veículo | Ligar/Desligar motor",
+        "L": "Veículo | Alarme",
+        "'": "Abrir/Fechar inventário"
+    }
+}

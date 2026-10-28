@@ -1,0 +1,459 @@
+<svg width="1030" height="332" viewBox="0 0 1030 332" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 2">
+<g id="ESC">
+<rect width="65" height="50" fill="white" fill-opacity="0.04"/>
+<rect x="0.5" y="0.5" width="64" height="49" stroke="white" stroke-opacity="0.08"/>
+<text id="ESC_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="10" y="39.7273">ESC</tspan></text>
+</g>
+<g id="1">
+<path d="M55 62H108V112H55V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M107.5 62.5V111.5H55.5V62.5H107.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="65" y="80.7273">!</tspan></text>
+<text id="1_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="65" y="101.727">1</tspan></text>
+</g>
+<g id="&#39;">
+<path d="M0 62H53V112H0V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M52.5 62.5V111.5H0.5V62.5H52.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="~" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="10" y="82.7273">~</tspan></text>
+<text id="&#226;&#128;&#152;" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="10" y="101.727">&#x2018;</tspan></text>
+</g>
+<g id="CTRL">
+<path d="M0 282H65V332H0V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M64.5 282.5V331.5H0.5V282.5H64.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="CTRL_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="10" y="321.727">CTRL</tspan></text>
+</g>
+<g id="WIN">
+<path d="M67 282H132V332H67V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M131.5 282.5V331.5H67.5V282.5H131.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="WIN_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="77" y="321.727">WIN</tspan></text>
+</g>
+<g id="ALT">
+<path d="M134 282H199V332H134V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M198.5 282.5V331.5H134.5V282.5H198.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="ALT_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="144" y="321.727">ALT</tspan></text>
+</g>
+<g id="ALTR">
+<path d="M554 282H619V332H554V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M618.5 282.5V331.5H554.5V282.5H618.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="ALT_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="564" y="321.727">ALT</tspan></text>
+</g>
+<g id="FN">
+<path d="M621 282H686V332H621V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M685.5 282.5V331.5H621.5V282.5H685.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="FN_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="631" y="321.727">FN</tspan></text>
+</g>
+<g id="SUPER">
+<path d="M688 282H753V332H688V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M752.5 282.5V331.5H688.5V282.5H752.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="SUPER_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="698" y="321.727">SUPER</tspan></text>
+</g>
+<g id="CTRLR">
+<path d="M755 282H820V332H755V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M819.5 282.5V331.5H755.5V282.5H819.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="CTRL_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="765" y="321.727">CTRL</tspan></text>
+</g>
+<g id="SPACE">
+<path d="M201 282H552V332H201V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M551.5 282.5V331.5H201.5V282.5H551.5Z" stroke="white" stroke-opacity="0.08"/>
+</g>
+<g id="2">
+<path d="M110 62H163V112H110V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M162.5 62.5V111.5H110.5V62.5H162.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="120" y="80.7273">!</tspan></text>
+<text id="2_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="120" y="101.727">2</tspan></text>
+</g>
+<g id="3">
+<path d="M165 62H218V112H165V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M217.5 62.5V111.5H165.5V62.5H217.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="175" y="80.7273">!</tspan></text>
+<text id="3_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="175" y="101.727">3</tspan></text>
+</g>
+<g id="4">
+<path d="M220 62H273V112H220V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M272.5 62.5V111.5H220.5V62.5H272.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_4" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="230" y="80.7273">!</tspan></text>
+<text id="4_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="230" y="101.727">4</tspan></text>
+</g>
+<g id="5">
+<path d="M275 62H328V112H275V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M327.5 62.5V111.5H275.5V62.5H327.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_5" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="285" y="80.7273">!</tspan></text>
+<text id="5_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="285" y="101.727">5</tspan></text>
+</g>
+<g id="6">
+<path d="M330 62H383V112H330V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M382.5 62.5V111.5H330.5V62.5H382.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_6" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="340" y="80.7273">!</tspan></text>
+<text id="6_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="340" y="101.727">6</tspan></text>
+</g>
+<g id="7">
+<path d="M385 62H438V112H385V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M437.5 62.5V111.5H385.5V62.5H437.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_7" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="395" y="80.7273">!</tspan></text>
+<text id="7_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="395" y="101.727">7</tspan></text>
+</g>
+<g id="8">
+<path d="M440 62H493V112H440V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M492.5 62.5V111.5H440.5V62.5H492.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_8" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="450" y="80.7273">!</tspan></text>
+<text id="8_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="450" y="101.727">8</tspan></text>
+</g>
+<g id="9">
+<path d="M495 62H548V112H495V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M547.5 62.5V111.5H495.5V62.5H547.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_9" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="505" y="80.7273">!</tspan></text>
+<text id="9_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="505" y="101.727">9</tspan></text>
+</g>
+<g id="0">
+<path d="M550 62H603V112H550V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M602.5 62.5V111.5H550.5V62.5H602.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="!_10" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="560" y="80.7273">!</tspan></text>
+<text id="0_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="560" y="101.727">0</tspan></text>
+</g>
+<g id="-">
+<path d="M605 62H658V112H605V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M657.5 62.5V111.5H605.5V62.5H657.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="_" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="615" y="80.7273">_</tspan></text>
+<text id="-_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="615" y="101.727">-</tspan></text>
+</g>
+<g id="=">
+<path d="M660 62H713V112H660V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M712.5 62.5V111.5H660.5V62.5H712.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="+" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="670" y="80.7273">+</tspan></text>
+<text id="=_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="670" y="101.727">=</tspan></text>
+</g>
+<g id="TAB">
+<path d="M0 117H80V167H0V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M79.5 117.5V166.5H0.5V117.5H79.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="TAB_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="10" y="156.727">TAB</tspan></text>
+</g>
+<g id="CAPSLOCK">
+<path d="M0 172H100V222H0V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M99.5 172.5V221.5H0.5V172.5H99.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="CAPS LOCK" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="10" y="211.727">CAPS LOCK</tspan></text>
+</g>
+<g id="SHIFT">
+<path d="M0 227H133V277H0V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M132.5 227.5V276.5H0.5V227.5H132.5Z" stroke="white" stroke-opacity="0.08"/>
+<path id="Vector" d="M16.5 254L10 260.29H13.9V267H19.1V260.29H23L16.5 254Z" fill="white"/>
+</g>
+<g id="SHIFTR">
+<path d="M685 227H824V277H685V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M823.5 227.5V276.5H685.5V227.5H823.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="SHIFT_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="695" y="266.727">SHIFT</tspan></text>
+</g>
+<g id="Q">
+<path d="M82 117H135V167H82V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M134.5 117.5V166.5H82.5V117.5H134.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="Q_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="92" y="156.727">Q</tspan></text>
+</g>
+<g id="W">
+<path d="M137 117H190V167H137V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M189.5 117.5V166.5H137.5V117.5H189.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="W_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="147" y="156.727">W</tspan></text>
+</g>
+<g id="E">
+<path d="M192 117H245V167H192V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M244.5 117.5V166.5H192.5V117.5H244.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="E_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="202" y="156.727">E</tspan></text>
+</g>
+<g id="R">
+<path d="M247 117H300V167H247V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M299.5 117.5V166.5H247.5V117.5H299.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="R_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="257" y="156.727">R</tspan></text>
+</g>
+<g id="T">
+<path d="M302 117H355V167H302V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M354.5 117.5V166.5H302.5V117.5H354.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="T_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="312" y="156.727">T</tspan></text>
+</g>
+<g id="Y">
+<path d="M357 117H410V167H357V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M409.5 117.5V166.5H357.5V117.5H409.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="Y_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="367" y="156.727">Y</tspan></text>
+</g>
+<g id="A">
+<path d="M102 172H155V222H102V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M154.5 172.5V221.5H102.5V172.5H154.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="A_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="112" y="211.727">A</tspan></text>
+</g>
+<g id="S">
+<path d="M157 172H210V222H157V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M209.5 172.5V221.5H157.5V172.5H209.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="S_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="167" y="211.727">S</tspan></text>
+</g>
+<g id="D">
+<path d="M212 172H265V222H212V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M264.5 172.5V221.5H212.5V172.5H264.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="D_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="222" y="211.727">D</tspan></text>
+</g>
+<g id="F">
+<path d="M267 172H320V222H267V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M319.5 172.5V221.5H267.5V172.5H319.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="277" y="211.727">F</tspan></text>
+</g>
+<g id="G">
+<path d="M322 172H375V222H322V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M374.5 172.5V221.5H322.5V172.5H374.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="G_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="332" y="211.727">G</tspan></text>
+</g>
+<g id="H">
+<path d="M377 172H430V222H377V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M429.5 172.5V221.5H377.5V172.5H429.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="H_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="387" y="211.727">H</tspan></text>
+</g>
+<g id="J">
+<path d="M432 172H485V222H432V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M484.5 172.5V221.5H432.5V172.5H484.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="J_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="442" y="211.727">J</tspan></text>
+</g>
+<g id="K">
+<path d="M487 172H540V222H487V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M539.5 172.5V221.5H487.5V172.5H539.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="K_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="497" y="211.727">K</tspan></text>
+</g>
+<g id="L">
+<path d="M542 172H595V222H542V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M594.5 172.5V221.5H542.5V172.5H594.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="L_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="552" y="211.727">L</tspan></text>
+</g>
+<g id="Z">
+<path d="M135 227H188V277H135V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M187.5 227.5V276.5H135.5V227.5H187.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="Z_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="145" y="266.727">Z</tspan></text>
+</g>
+<g id="X">
+<path d="M190 227H243V277H190V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M242.5 227.5V276.5H190.5V227.5H242.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="X_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="200" y="266.727">X</tspan></text>
+</g>
+<g id="C">
+<path d="M245 227H298V277H245V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M297.5 227.5V276.5H245.5V227.5H297.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="C_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="255" y="266.727">C</tspan></text>
+</g>
+<g id="V">
+<path d="M300 227H353V277H300V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M352.5 227.5V276.5H300.5V227.5H352.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="V_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="310" y="266.727">V</tspan></text>
+</g>
+<g id="B">
+<path d="M355 227H408V277H355V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M407.5 227.5V276.5H355.5V227.5H407.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="B_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="365" y="266.727">B</tspan></text>
+</g>
+<g id="N">
+<path d="M410 227H463V277H410V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M462.5 227.5V276.5H410.5V227.5H462.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="N_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="420" y="266.727">N</tspan></text>
+</g>
+<g id="M">
+<path d="M465 227H518V277H465V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M517.5 227.5V276.5H465.5V227.5H517.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="M_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="475" y="266.727">M</tspan></text>
+</g>
+<g id=",">
+<path d="M520 227H573V277H520V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M572.5 227.5V276.5H520.5V227.5H572.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="&#60;" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="530" y="245.727">&#60;</tspan></text>
+<text id=",_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="530" y="266.727">,</tspan></text>
+</g>
+<g id=".">
+<path d="M575 227H628V277H575V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M627.5 227.5V276.5H575.5V227.5H627.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="&#62;" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="585" y="245.727">&#62;</tspan></text>
+<text id="._2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="585" y="266.727">.</tspan></text>
+</g>
+<g id="/">
+<path d="M630 227H683V277H630V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M682.5 227.5V276.5H630.5V227.5H682.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="?" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="640" y="245.727">?</tspan></text>
+<text id="/_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="640" y="266.727">/</tspan></text>
+</g>
+<g id=";">
+<path d="M597 172H650V222H597V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M649.5 172.5V221.5H597.5V172.5H649.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id=":" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="607" y="190.727">:</tspan></text>
+<text id=";_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="607" y="211.727">;</tspan></text>
+</g>
+<g id="&#34;">
+<path d="M652 172H705V222H652V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M704.5 172.5V221.5H652.5V172.5H704.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="&#226;&#128;&#156;" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="662" y="190.727">&#x201c;</tspan></text>
+<text id="&#226;&#128;&#152;_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="662" y="211.727">&#x2018;</tspan></text>
+</g>
+<g id="ENTER">
+<path d="M707 172H824V222H707V172Z" fill="white" fill-opacity="0.04"/>
+<path d="M823.5 172.5V221.5H707.5V172.5H823.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="ENTER_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="717" y="211.727">ENTER</tspan></text>
+</g>
+<g id="U">
+<path d="M412 117H465V167H412V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M464.5 117.5V166.5H412.5V117.5H464.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="U_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="422" y="156.727">U</tspan></text>
+</g>
+<g id="I">
+<path d="M467 117H520V167H467V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M519.5 117.5V166.5H467.5V117.5H519.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="I_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="477" y="156.727">I</tspan></text>
+</g>
+<g id="O">
+<path d="M522 117H575V167H522V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M574.5 117.5V166.5H522.5V117.5H574.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="O_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="532" y="156.727">O</tspan></text>
+</g>
+<g id="P">
+<path d="M577 117H630V167H577V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M629.5 117.5V166.5H577.5V117.5H629.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="P_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="587" y="156.727">P</tspan></text>
+</g>
+<g id="[">
+<path d="M632 117H685V167H632V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M684.5 117.5V166.5H632.5V117.5H684.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="{" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="642" y="135.727">{</tspan></text>
+<text id="[_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="642" y="156.727">[</tspan></text>
+</g>
+<g id="]">
+<path d="M687 117H740V167H687V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M739.5 117.5V166.5H687.5V117.5H739.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="}" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="697" y="135.727">}</tspan></text>
+<text id="]_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="697" y="156.727">]</tspan></text>
+</g>
+<g id="BACKSPACE">
+<path d="M715 62H824V112H715V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M823.5 62.5V111.5H715.5V62.5H823.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="BACKSPACE_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="725" y="101.727">BACKSPACE</tspan></text>
+</g>
+<g id="INS">
+<path d="M834 62H898V112H834V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M897.5 62.5V111.5H834.5V62.5H897.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="INS_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="844" y="101.727">INS</tspan></text>
+</g>
+<g id="HOME">
+<path d="M900 62H964V112H900V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M963.5 62.5V111.5H900.5V62.5H963.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="HOME_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="910" y="101.727">HOME</tspan></text>
+</g>
+<g id="PGUP">
+<path d="M966 62H1030V112H966V62Z" fill="white" fill-opacity="0.04"/>
+<path d="M1029.5 62.5V111.5H966.5V62.5H1029.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="PGUP_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="976" y="101.727">PGUP</tspan></text>
+</g>
+<g id="DELETE">
+<path d="M834 117H898V167H834V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M897.5 117.5V166.5H834.5V117.5H897.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="DELETE_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="844" y="156.727">DELETE</tspan></text>
+</g>
+<g id="END">
+<path d="M900 117H964V167H900V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M963.5 117.5V166.5H900.5V117.5H963.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="END_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="910" y="156.727">END</tspan></text>
+</g>
+<g id="ARROWUP">
+<path d="M905 227H959V277H905V227Z" fill="white" fill-opacity="0.04"/>
+<path d="M958.5 227.5V276.5H905.5V227.5H958.5Z" stroke="white" stroke-opacity="0.08"/>
+<path id="Vector_2" d="M915.67 262.748L915.161 262.253C914.946 262.043 914.946 261.704 915.161 261.496L919.612 257.157C919.827 256.948 920.175 256.948 920.388 257.157L924.839 261.494C925.054 261.704 925.054 262.043 924.839 262.251L924.33 262.746C924.112 262.958 923.757 262.954 923.544 262.737L920.917 260.05V266.464C920.917 266.761 920.672 267 920.368 267H919.635C919.33 267 919.085 266.761 919.085 266.464V260.05L916.456 262.739C916.243 262.958 915.888 262.963 915.67 262.748Z" fill="white"/>
+</g>
+<g id="ARROWDOWN">
+<path d="M905 282H959V332H905V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M958.5 282.5V331.5H905.5V282.5H958.5Z" stroke="white" stroke-opacity="0.08"/>
+<path id="Vector_3" d="M915.67 316.252L915.161 316.747C914.946 316.957 914.946 317.296 915.161 317.504L919.612 321.843C919.827 322.052 920.175 322.052 920.388 321.843L924.839 317.506C925.054 317.296 925.054 316.957 924.839 316.749L924.33 316.254C924.112 316.042 923.757 316.046 923.544 316.263L920.917 318.95V312.536C920.917 312.239 920.672 312 920.368 312H919.635C919.33 312 919.085 312.239 919.085 312.536V318.95L916.456 316.261C916.243 316.042 915.888 316.037 915.67 316.252Z" fill="white"/>
+</g>
+<g id="ARROWLEFT">
+<path d="M849 282H903V332H849V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M902.5 282.5V331.5H849.5V282.5H902.5Z" stroke="white" stroke-opacity="0.08"/>
+<path id="Vector_4" d="M864.748 321.33L864.253 321.839C864.043 322.054 863.704 322.054 863.496 321.839L859.157 317.388C858.948 317.173 858.948 316.825 859.157 316.612L863.494 312.161C863.704 311.946 864.043 311.946 864.251 312.161L864.746 312.67C864.958 312.888 864.954 313.243 864.737 313.456L862.05 316.083L868.464 316.083C868.761 316.083 869 316.328 869 316.632L869 317.365C869 317.67 868.761 317.915 868.464 317.915L862.05 317.915L864.739 320.544C864.958 320.757 864.963 321.112 864.748 321.33Z" fill="white"/>
+</g>
+<g id="ARROWRIGHT">
+<path d="M961 282H1015V332H961V282Z" fill="white" fill-opacity="0.04"/>
+<path d="M1014.5 282.5V331.5H961.5V282.5H1014.5Z" stroke="white" stroke-opacity="0.08"/>
+<path id="Vector_5" d="M975.252 312.67L975.747 312.161C975.957 311.946 976.296 311.946 976.504 312.161L980.843 316.612C981.052 316.827 981.052 317.175 980.843 317.388L976.506 321.839C976.296 322.054 975.957 322.054 975.749 321.839L975.254 321.33C975.042 321.112 975.046 320.757 975.263 320.544L977.95 317.917L971.536 317.917C971.239 317.917 971 317.672 971 317.368L971 316.635C971 316.33 971.239 316.085 971.536 316.085L977.95 316.085L975.261 313.456C975.042 313.243 975.037 312.888 975.252 312.67Z" fill="white"/>
+</g>
+<g id="PGDN">
+<path d="M966 117H1030V167H966V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M1029.5 117.5V166.5H966.5V117.5H1029.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="PGDN_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="976" y="156.727">PGDN</tspan></text>
+</g>
+<g id="\">
+<path d="M742 117H824V167H742V117Z" fill="white" fill-opacity="0.04"/>
+<path d="M823.5 117.5V166.5H742.5V117.5H823.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="|" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="752" y="135.727">|</tspan></text>
+<text id="\_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="752" y="156.727">\</tspan></text>
+</g>
+<g id="F1">
+<path d="M100 0H153V50H100V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M152.5 0.5V49.5H100.5V0.5H152.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F1_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="110" y="39.7273">F1</tspan></text>
+</g>
+<g id="F2">
+<path d="M155 0H208V50H155V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M207.5 0.5V49.5H155.5V0.5H207.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F2_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="165" y="39.7273">F2</tspan></text>
+</g>
+<g id="F3">
+<path d="M210 0H263V50H210V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M262.5 0.5V49.5H210.5V0.5H262.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F3_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="220" y="39.7273">F3</tspan></text>
+</g>
+<g id="F4">
+<path d="M265 0H318V50H265V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M317.5 0.5V49.5H265.5V0.5H317.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F4_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="275" y="39.7273">F4</tspan></text>
+</g>
+<g id="F5">
+<path d="M353 0H406V50H353V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M405.5 0.5V49.5H353.5V0.5H405.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F5_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="363" y="39.7273">F5</tspan></text>
+</g>
+<g id="F6">
+<path d="M408 0H461V50H408V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M460.5 0.5V49.5H408.5V0.5H460.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F6_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="418" y="39.7273">F6</tspan></text>
+</g>
+<g id="F7">
+<path d="M463 0H516V50H463V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M515.5 0.5V49.5H463.5V0.5H515.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F7_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="473" y="39.7273">F7</tspan></text>
+</g>
+<g id="F8">
+<path d="M518 0H571V50H518V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M570.5 0.5V49.5H518.5V0.5H570.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F8_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="528" y="39.7273">F8</tspan></text>
+</g>
+<g id="F9">
+<path d="M606 0H659V50H606V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M658.5 0.5V49.5H606.5V0.5H658.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F9_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="616" y="39.7273">F9</tspan></text>
+</g>
+<g id="F10">
+<path d="M661 0H714V50H661V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M713.5 0.5V49.5H661.5V0.5H713.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F10_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="671" y="39.7273">F10</tspan></text>
+</g>
+<g id="F11">
+<path d="M716 0H769V50H716V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M768.5 0.5V49.5H716.5V0.5H768.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F11_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="726" y="39.7273">F11</tspan></text>
+</g>
+<g id="F12">
+<path d="M771 0H824V50H771V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M823.5 0.5V49.5H771.5V0.5H823.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="F12_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="781" y="39.7273">F12</tspan></text>
+</g>
+<g id="PRINT">
+<path d="M834 0H898V50H834V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M897.5 0.5V49.5H834.5V0.5H897.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="PRINT_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="844" y="39.7273">PRINT</tspan></text>
+</g>
+<g id="SCROLL">
+<path d="M900 0H964V50H900V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M963.5 0.5V49.5H900.5V0.5H963.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="SCROLL_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="910" y="39.7273">SCROLL</tspan></text>
+</g>
+<g id="PAUSE">
+<path d="M966 0H1030V50H966V0Z" fill="white" fill-opacity="0.04"/>
+<path d="M1029.5 0.5V49.5H966.5V0.5H1029.5Z" stroke="white" stroke-opacity="0.08"/>
+<text id="PAUSE_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0em"><tspan x="976" y="39.7273">PAUSE</tspan></text>
+</g>
+</g>
+</svg>

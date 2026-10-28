@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR" style="background:#0e0809">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Loadscreen</title>
+    <link rel="preload" as="image" href="./assets/video/backgroud.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+    <img src="./assets/images/fare.png" alt="" id="fare" onerror="this.style.display='none'">
+
+    <!-- FUNDO: o fallback aparece na hora (nunca fica preto), o vídeo entra com fade quando começa a tocar -->
+    <div class="video-background" id="videoBackground">
+        <div class="bg-fallback"></div>
+        <div class="video-foreground">
+            <video id="backgroundVideo" autoplay muted loop playsinline preload="auto" disablepictureinpicture
+                disableremoteplayback poster="./assets/video/backgroud.png">
+                <source src="./assets/video/loading.webm" type="video/webm">
+                <source src="./assets/video/loading.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="bg-overlay"></div>
+    </div>
+
+    <!-- CLASSIFICAÇÃO INDICATIVA -->
+    <div class="indicative">
+        <div class="age">+18</div>
+        <div class="warning">
+            <h3>CLASSIFICAÇÃO INDICATIVA</h3>
+            <p>VIOLÊNCIA, PALAVRÕES, DROGAS, CONTEÚDO SEXUAL</p>
+        </div>
+    </div>
+
+    <!-- LOJA -->
+    <div class="store">
+        <div class="slide">
+            <img src="./assets/images/vip.png" alt="" class="bannerVip">
+
+            <div class="store-content">
+                <p>DE R$157,90</p>
+                <b>POR APENAS R$109,90</b>
+            </div>
+
+            <div class="buttons-slide">
+                <div class="button-circle active"></div>
+                <div class="button-circle"></div>
+                <div class="button-circle"></div>
+            </div>
+        </div>
+
+        <button type="button" id="storeButton">
+            <img src="./assets/images/store.svg" alt="">
+            <p>IR PARA A LOJA</p>
+        </button>
+    </div>
+
+    <!-- BOTÃO DOS ATALHOS (a tecla H também funciona) -->
+    <button type="button" id="keyboardToggle" class="button-keyboard">
+        <span id="keyboardLabel">MOSTRAR ATALHOS</span>
+        <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+                d="M1.8 12C1.305 12 0.8814 11.8323 0.5292 11.4969C0.177 11.1614 0.0006 10.7577 0 10.2857V1.71429C0 1.24286 0.1764 0.839428 0.5292 0.504C0.882 0.168571 1.3056 0.000571428 1.8 0H16.2C16.695 0 17.1189 0.168 17.4717 0.504C17.8245 0.84 18.0006 1.24343 18 1.71429V10.2857C18 10.7571 17.8239 11.1609 17.4717 11.4969C17.1195 11.8329 16.6956 12.0006 16.2 12H1.8ZM5.4 9.42857H12.6V7.71428H5.4V9.42857ZM2.7 6.85714H4.5V5.14286H2.7V6.85714ZM5.4 6.85714H7.2V5.14286H5.4V6.85714ZM8.1 6.85714H9.9V5.14286H8.1V6.85714ZM10.8 6.85714H12.6V5.14286H10.8V6.85714ZM13.5 6.85714H15.3V5.14286H13.5V6.85714ZM2.7 4.28571H4.5V2.57143H2.7V4.28571ZM5.4 4.28571H7.2V2.57143H5.4V4.28571ZM8.1 4.28571H9.9V2.57143H8.1V4.28571ZM10.8 4.28571H12.6V2.57143H10.8V4.28571ZM13.5 4.28571H15.3V2.57143H13.5V4.28571Z" />
+        </svg>
+    </button>
+
+    <!-- TECLADO: gerado pelo script.js (não precisa de SVG) -->
+    <div class="keyboard-container" id="keyboardContainer">
+        <div class="keyboard" id="keyboard"></div>
+        <div class="keyboard-extra" id="keyboardExtra" hidden></div>
+
+        <p class="keyboard-info">
+            <img src="./assets/images/mouse-keyboard.svg" alt="" onerror="this.style.display='none'">
+            PASSE O <b>MOUSE</b> SOBRE AS TECLAS DESTACADAS PARA VER MAIS.
+        </p>
+    </div>
+
+    <!-- RODAPÉ -->
+    <footer class="footer">
+        <div class="progress-line"><div id="progressFill"></div></div>
+
+        <div class="player" id="player">
+            <audio id="music" preload="auto"></audio>
+            <img id="image" class="player-cover" src="./assets/images/test.png" alt=""
+                onerror="this.style.visibility='hidden'">
+            <div class="player-info">
+                <div class="player-info-content">
+                    <div class="column">
+                        <h2 id="song">CPX</h2>
+                        <p id="artist">FUSION GROUP</p>
+                    </div>
+                    <div class="row">
+                        <div class="volume-control">
+                            <svg class="volume-icon" id="volumeIcon" viewBox="0 0 24 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M11 5L6 9H2V15H6L11 19V5Z" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round" />
+                                <path class="volume-wave"
+                                    d="M15.54 8.46C16.4774 9.39764 17.0039 10.6692 17.0039 11.995C17.0039 13.3208 16.4774 14.5924 15.54 15.53"
+                                    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" />
+                            </svg>
+                            <div class="volume-slider-container">
+                                <div class="volume"></div>
+                                <input type="range" id="volume" min="0" max="1" step="0.01" value="0.1" />
+                            </div>
+                        </div>
+                        <div class="player-controls">
+                            <span class="control-btn">
+                                <svg id="previous" class="step-backward" viewBox="0 0 25 25" xml:space="preserve">
+                                    <g>
+                                        <polygon
+                                            points="4.9,4.3 9,4.3 9,11.6 21.4,4.3 21.4,20.7 9,13.4 9,20.7 4.9,20.7" />
+                                    </g>
+                                </svg>
+                            </span>
+                            <span class="control-btn">
+                                <svg id="play" viewBox="0 0 25 25" xml:space="preserve">
+                                    <g>
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M8.7,6.9V18c0,0,0.2,1.4,1.8,0l8.1-4.8c0,0,1.2-1.1-1-2L9.8,6.5 C9.8,6.5,9.1,6,8.7,6.9z" />
+                                    </g>
+                                </svg>
+                                <svg id="pause" viewBox="0 0 25 25" xml:space="preserve">
+                                    <g>
+                                        <rect x="6" y="4.6" width="3.8" height="15.7" />
+                                        <rect x="14" y="4.6" width="3.9" height="15.7" />
+                                    </g>
+                                </svg>
+                            </span>
+                            <span class="control-btn">
+                                <svg id="next" class="step-foreward" viewBox="0 0 25 25" xml:space="preserve">
+                                    <g>
+                                        <polygon
+                                            points="20.7,4.3 16.6,4.3 16.6,11.6 4.3,4.3 4.3,20.7 16.7,13.4 16.6,20.7 20.7,20.7" />
+                                    </g>
+                                </svg>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="progress-bar">
+                    <div id="slider">
+                        <div id="elapsed"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="loading">
+            <div class="balls">
+                <div class="ball"></div>
+                <div class="ball"></div>
+                <div class="ball"></div>
+            </div>
+            <p class="status"><span id="statusText">CARREGANDO <b>ARQUIVOS</b> DO JOGO</span> <em
+                    id="percent">0%</em></p>
+        </div>
+
+        <div class="socials">
+            <img src="./assets/images/youtube.svg" alt="">
+            <img src="./assets/images/instagram.svg" alt="">
+            <img src="./assets/images/tiktok.svg" alt="">
+            <img src="./assets/images/discord.svg" alt="">
+        </div>
+    </footer>
+</body>
+
+</html>
